@@ -11,11 +11,20 @@ Built with Streamlit, GPT-3.5, and the Spotify Web API.
 
 ---
 
-## 🖼️ Screenshots
-<img width="986" height="454" alt="PC Version" src="https://github.com/user-attachments/assets/880506e3-bd8a-49e1-83bd-113549ef07b0" /> ![Mobile Version](https://github.com/user-attachments/assets/6556d238-f6ed-4335-849b-4f724cbaad78)
+## 🖼️ Screenshots  
 
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img width="450" alt="PC Version" src="https://github.com/user-attachments/assets/880506e3-bd8a-49e1-83bd-113549ef07b0" />
+      <br><sub>💻 Desktop Version</sub>
+    </td>
+    <td align="center">
+      <img width="250" alt="Mobile Version" src="https://github.com/user-attachments/assets/6556d238-f6ed-4335-849b-4f724cbaad78" />
+      <br><sub>📱 Mobile Version</sub>
+    </td>
+  </tr>
+</table>  
 
 *(📜 History on the left | 🎶 Recommendation UI in the center | 🎨 Album cover + 🎧 Spotify preview)*  
 
@@ -57,9 +66,5 @@ Built with Streamlit, GPT-3.5, and the Spotify Web API.
 
 ---
 
-## 💻 Usage  
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/JEbertowski/MatchMyMusic.git
-   cd MatchMyMusic
+📜 License
+MIT © 2025 Justin Ebertowski
