@@ -66,5 +66,31 @@ Built with Streamlit, GPT-3.5, and the Spotify Web API.
 
 ---
 
+## 💻 Usage  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/JEbertowski/MatchMyMusic.git
+   cd MatchMyMusic
+
+2. **Create and activate a virtual environment**
+python -m venv .venv
+source .venv/bin/activate   # On Mac/Linux
+.venv\Scripts\activate      # On Windows
+
+3. **Install dependencies**
+pip install -r requirements.txt
+
+4. **Set up secrets**
+OPENAI_API_KEY = "your_openai_key_here"
+SPOTIFY_CLIENT_ID = "your_spotify_client_id_here"
+SPOTIFY_CLIENT_SECRET = "your_spotify_client_secret_here"
+
+5. **Run the app locally**
+streamlit run matchmymusic_app.py
+
+6. **Open http://localhost:8501 in your browser and enjoy** 🎶
+
+
 📜 License
 MIT © 2025 Justin Ebertowski
