@@ -69,7 +69,6 @@ Built with Streamlit, GPT-3.5, and the Spotify Web API.
 ## 💻 Usage  
 
 1. **Clone the repository**  
-   ```bash
    git clone https://github.com/JEbertowski/MatchMyMusic.git
    cd MatchMyMusic
 
