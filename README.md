@@ -12,7 +12,8 @@ Built with Streamlit, GPT-3.5, and the Spotify Web API.
 ---
 
 ## 🖼️ Screenshot  
-![App screenshot](path/to/your/screenshot.png)  
+<img width="1919" height="883" alt="PC Version" src="https://github.com/user-attachments/assets/29f1d3d6-d4cc-43c9-a287-82c9809fd003" /> ![Mobile Version](https://github.com/user-attachments/assets/88a2d0fc-b7b1-4ec5-abfd-c63a56dddc75)
+
 *(📜 History on the left | 🎶 Recommendation UI in the center | 🎨 Album cover + 🎧 Spotify preview)*  
 
 ---
