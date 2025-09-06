@@ -2,12 +2,9 @@ import streamlit as st
 import openai
 import os
 import base64
-from dotenv import load_dotenv
 from datetime import datetime
 
-# Load API key
-load_dotenv()
-client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Page config
 st.set_page_config(page_title="🎵 MatchMyMusic", page_icon="🎶", layout="centered")
