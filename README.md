@@ -1,8 +1,7 @@
 # 🎵 MatchMyMusic  
 
 ✨ **An AI-powered music recommendation experience** ✨  
-Describe your mood or situation, and MatchMyMusic pairs you with the perfect song. Complete with 🎨 album art and 🎧 Spotify preview.  
-Built with Streamlit, GPT-3.5, and the Spotify Web API.  
+Describe your mood or situation, and MatchMyMusic pairs you with the perfect song. Complete with 🎨 album art and 🎧 Spotify preview. Built with Streamlit, GPT-3.5, and the Spotify Web API.  
 
 ---
 
